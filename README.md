@@ -1,10 +1,10 @@
 # DL-Cats_vs_Dogs_Classification
 
-I have created a **[Convolutional Neural Network]()** for classifying Cats and dogs images.
+I have created a **[Convolutional Neural Network](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)** for classifying Cats and dogs images.
 
 I have created an **[GUI](https://github.com/Anuragtsl/DL-Cats_vs_Dogs_Classification/tree/main/GUI)** format for using the model.
 
-I have used **[Google Colab]()** for coding!
+I have used **[Google Colab](https://research.google.com/colaboratory/)** for coding!
 
 ***Follow the [juputer notebook](https://github.com/Anuragtsl/DL-Cats_vs_Dogs_Classification/blob/main/Cats_vs_Dogs_Classification.ipynb) for more!***
 
